@@ -1,0 +1,17 @@
+h1 {
+  color: blue;
+  background-color : #ffccff;
+
+}
+.icon
+{
+  width: 100%;
+  border-style: solid;
+  border-color : #ffccff;
+}
+b {
+  font-size: 22px;
+}
+h2 {
+  font-size: 30px;
+}
